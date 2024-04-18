@@ -2,6 +2,10 @@
 
 Google Build with AI workshop 2024 Taiwan material and links
 
+## 活動內容
+
+[GDG Event Page](https://gdg.community.dev/events/details/google-gdg-taipei-presents-build-with-ai-2024-si-yue-gong-zuo-fang-shi-yong-gemini-pro-vision-api-da-zao-chu-guo-lu-you-de-xiao-bang-shou/)
+
 ## Gemini API 的提示範例
 
 [Gemini API 的提示範例](https://ai.google.dev/examples?utm_source=hackathon&utm_medium=referral&utm_campaign=DevPost&hl=zh-tw)
