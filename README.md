@@ -2,6 +2,8 @@
 
 Google Build with AI workshop 2024 Taiwan material and links
 
+![](./img.png)
+
 ## 活動內容
 
 [GDG Event Page](https://gdg.community.dev/events/details/google-gdg-taipei-presents-build-with-ai-2024-si-yue-gong-zuo-fang-shi-yong-gemini-pro-vision-api-da-zao-chu-guo-lu-you-de-xiao-bang-shou/)
